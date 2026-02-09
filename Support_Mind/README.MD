@@ -9,43 +9,43 @@ SupportMind is an AI-powered self-learning support intelligence system designed 
 
 **Objectives**
 
-Automatically generate and update knowledge articles from resolved cases
+1) Automatically generate and update knowledge articles from resolved cases
 
-Improve retrieval accuracy using RAG (Retrieval-Augmented Generation)
+2) Improve retrieval accuracy using RAG (Retrieval-Augmented Generation)
 
-Provide structured QA scoring for support interactions
+3) Provide structured QA scoring for support interactions
 
-Ensure compliance and safety through guardrail detection
+4) Ensure compliance and safety through guardrail detection
 
-Maintain traceability between knowledge articles and source tickets
+5) Maintain traceability between knowledge articles and source tickets
 
 **Core Features**
 
-Self-Updating Knowledge Engine with versioning
+1) Self-Updating Knowledge Engine with versioning
 
-AI-powered Support Coaching Agent
+2) AI-powered Support Coaching Agent
 
-Compliance & Safety Guardrail Detection
+3) Compliance & Safety Guardrail Detection
 
-Live Agent Copilot for real-time suggestions
+4) Live Agent Copilot for real-time suggestions
 
-Root Cause Mining for recurring product issues
+5) Root Cause Mining for recurring product issues
 
-Knowledge Quality Dashboard with scoring metrics
+6) Knowledge Quality Dashboard with scoring metrics
 
-Traceability using explicit KB lineage mapping
+7) Traceability using explicit KB lineage mapping
 
 **Evaluation Metrics**
 
-Retrieval accuracy (hit@k using ground truth IDs)
+1) Retrieval accuracy (hit@k using ground truth IDs)
 
-Knowledge update traceability
+2) Knowledge update traceability
 
-QA scoring consistency
+3) QA scoring consistency
 
-Compliance detection effectiveness
+4) Compliance detection effectiveness
 
-Demonstrated self-learning feedback loop
+5) Demonstrated self-learning feedback loop
 
 **Tech Stack (Example)**
 
