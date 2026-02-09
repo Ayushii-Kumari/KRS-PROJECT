@@ -36,8 +36,6 @@ The goal of FaceCode is to create a personalized and adaptive coding learning en
 
 5) Partial code suggestion system
 
-6) User performance tracking dashboard
-
 Learning progress analytics
 
 **System Architecture**
