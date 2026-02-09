@@ -1,0 +1,5 @@
+Project Description
+
+FaceCode is an intelligent coding platform that adapts coding challenges and assistance based on the user’s facial expressions and perceived confidence level. The system continuously analyzes facial cues using computer vision and machine learning techniques to estimate the user’s emotional state, such as confidence, confusion, or stress, while solving programming problems.
+Based on this real-time analysis, the platform dynamically adjusts the difficulty level of coding questions. If the user appears confident and progresses smoothly, the system presents more challenging problems to test and enhance their skills. Conversely, if the user seems stuck or confused for a prolonged period, the platform provides contextual hints, partial code suggestions, or guidance to help the user move forward without directly revealing the solution.
+The goal of this project is to create a personalized and adaptive learning environment that improves problem-solving skills, reduces frustration, and enhances the overall coding experience by combining emotion recognition, adaptive learning, and intelligent code assistance.
