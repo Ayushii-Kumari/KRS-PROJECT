@@ -1,3 +1,5 @@
+**AI Project Ideas Repository**
+
 This repository contains a curated collection of innovative AI-based project ideas across multiple domains such as Smart Manufacturing, Smart Cities, EdTech, Enterprise AI, Voice Automation, and Web Intelligence.
 Each project is designed to demonstrate intelligent decision-making, agentic systems, and real-world AI applications. Select one project based on your interest and skill level, and build it further with your own enhancements.
 
