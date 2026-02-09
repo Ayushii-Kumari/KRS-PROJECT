@@ -1,12 +1,13 @@
-RealPage – Self-Learning Support AI (SupportMind)
+**RealPage** – Self-Learning Support AI (SupportMind)
 
-*Project Title*
+**Project Title**
+
 SupportMind – Self-Learning Support Intelligence System
 
-*Overview*
+**Overview**
 SupportMind is an AI-powered self-learning support intelligence system designed to improve customer support quality, compliance, and operational efficiency. The system continuously analyzes support conversations, tickets, scripts, and knowledge base articles to extract insights and update institutional knowledge automatically. Instead of relying on static documentation and manual QA processes, SupportMind creates a dynamic intelligence layer that learns from every customer interaction and embeds trust into support workflows.
 
-*Objectives*
+**Objectives**
 
 Automatically generate and update knowledge articles from resolved cases
 
@@ -18,7 +19,7 @@ Ensure compliance and safety through guardrail detection
 
 Maintain traceability between knowledge articles and source tickets
 
-*Core Features*
+**Core Features**
 
 Self-Updating Knowledge Engine with versioning
 
@@ -34,7 +35,7 @@ Knowledge Quality Dashboard with scoring metrics
 
 Traceability using explicit KB lineage mapping
 
-*Evaluation Metrics*
+**Evaluation Metrics**
 
 Retrieval accuracy (hit@k using ground truth IDs)
 
@@ -46,6 +47,6 @@ Compliance detection effectiveness
 
 Demonstrated self-learning feedback loop
 
-*Tech Stack (Example)*
+**Tech Stack (Example)**
 
 Python, FastAPI, LLM APIs, Vector Database, RAG Pipeline, Structured JSON Evaluation, Multi-Agent Orchestration
