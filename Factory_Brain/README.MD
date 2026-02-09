@@ -76,14 +76,6 @@ Uses regression or classification models
 
 Predicts maintenance requirement based on usage patterns
 
-6️) Visualization Dashboard
-
-Displays machine efficiency
-
-Shows bottleneck heatmaps
-
-Compares performance before and after optimization
-
 **Evaluation Metrics**
 
 1) Reduction in machine idle time
